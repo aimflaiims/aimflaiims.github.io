@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+Use this as your index.md content for GitHub Pages:
 
-You can use the [editor on GitHub](https://github.com/aimflaiims/aimflaiims.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to My Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I am a frontend developer building React apps and interactive web projects.
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### React 17
+- Snake Game: [Play Here](https://aimflaiims.github.io/snake-game.github.io/#/)
 
-```markdown
-Syntax highlighted code block
+### React 19
+- Movie Critics: [View Project](https://aimflaiims.github.io/movie-critics/)
 
-# Header 1
-## Header 2
-### Header 3
+## About Me
 
-- Bulleted
-- List
+I enjoy creating clean, responsive, and user-friendly interfaces.
 
-1. Numbered
-2. List
+My focus:
+- React development
+- Reusable UI components
+- Performance optimization
+- Deployment with GitHub Pages
 
-**Bold** and _Italic_ and `Code` text
+## Tech Stack
 
-[Link](url) and ![Image](src)
-```
+- React
+- JavaScript
+- HTML
+- CSS
+- Git and GitHub
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
 
-### Jekyll Themes
+- GitHub: [aimflaiims](https://github.com/aimflaiims)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aimflaiims/aimflaiims.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want, I can also give you a second version with badges, project screenshots section, and a cleaner recruiter-style layout.
